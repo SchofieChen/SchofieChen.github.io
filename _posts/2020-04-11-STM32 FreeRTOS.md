@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  "STM32F4 FreeRTOS using STM32CubeIDE"
-cover: ![GITHUB]( https://raw.githubusercontent.com/SchofieChen/SchofieChen.github.io/master/_picture/Jetson_nano.png "She is my daughter")
+cover: ![GITHUB]( https://raw.githubusercontent.com/SchofieChen/SchofieChen.github.io/master/_picture/STM32F4Discovery.png "She is my daughter")
 date:   2020-04-11
 start_time: "09:00"
 end_time: "12:00"
