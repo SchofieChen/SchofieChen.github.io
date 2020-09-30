@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Evento</title>
-    <description>Simple Jekyll theme to host internal/external events happening in and around your area. Free free to contribute or fork the repo.
+    <description>If you wanna know more about me go to my github and be my follower.
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
