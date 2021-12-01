@@ -16,7 +16,6 @@ organiser_name : "Schofie Chen"
 
 
 ---
-
 # ADC RNN Predicition
 # LSTM Neural Network for Time Series Prediction
 LSTM built using the Keras Python package to predict time series steps and sequences. Includes sine wave and stock market data.
@@ -38,10 +37,10 @@ Install requirements.txt file to make sure correct versions of libraries are bei
 ## Result
 ADC for sine wave:
 
-![image](https://github.com/SchofieChen/ADC_RNN-LSTM-Predicition/blob/master/experimental%20picture/adc_collect_raw_data.png)
+![image](https://raw.githubusercontent.com/SchofieChen/SchofieChen.github.io/master/_picture/adc_collect_raw_data.png)
 
 LSTM for sine wave sequential prediction:
 
-![image](https://github.com/SchofieChen/ADC_RNN-LSTM-Predicition/blob/master/experimental%20picture/LSTM_prediction.png)
+![image](https://raw.githubusercontent.com/SchofieChen/SchofieChen.github.io/master/_picture/LSTM_prediction.png)
 
 
