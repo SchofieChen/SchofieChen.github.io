@@ -2,7 +2,7 @@
 layout: post
 
 #event information
-title:  "Real-Time Current Anmoly Detection in DC Motor"
+title:  "Real-Time Current Anmoly Detection in AC Motor"
 cover: ![GITHUB]( https://raw.githubusercontent.com/SchofieChen/SchofieChen.github.io/master/_picture/STM32F4Discovery.png "She is my daughter")
 date:   2020-04-11
 start_time: "09:00"
@@ -18,8 +18,8 @@ organiser_name : "Schofie Chen"
 ---
 # 1. ADC RNN Predicition
 This side project is based on [ADS1256 Package](https://github.com/SchofieChen/High-Speed-ADS1256)
-you can adjust parameter of initialize e.g. SPS, PGA etc.. this scenario is detect general motor as servo motor,
-according to Nyquist Sampling frequency theorem. we need 2.65 ↑ sampling rate (2.65 * 60 = 159), that we can adjust sampling rate more than 159 setting as below, 
+you can adjust parameter of initialize e.g. SPS, PGA etc.. this scenario that detect general motor as servo motor,
+according to Nyquist Sampling frequency theorem. we need 2.65 ↑times sampling rate (2.65 * 60 = 159), that we can adjust sampling rate more than 159 setting as below, 
 we can choose DRATE_500 or DRATE_1000 more than 159, remember when modify file you must recompile binary to be your RPI Binary library, BTW why I don't write firmware by python code
 python code is interpreter it can't not handle real-time data even if using Linus OS. if you all done setting follow 
 
